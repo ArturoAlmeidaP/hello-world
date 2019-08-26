@@ -1,6 +1,5 @@
-# hello-world
+﻿# hello-world
 programa inicial para aprender a usar git y github
 
 
-Modificación que se hizo en la rama README-EDITS
-
+Este es un cambio que s ehace de manera local en el computador 
